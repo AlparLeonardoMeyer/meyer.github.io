@@ -24,7 +24,7 @@ github_username:  smiles
 
 # Build settings
 markdown: kramdown
-theme: "just-the-docs"
+theme: jekyll-theme-slate
 plugins:
   - jekyll-feed
   - jekyll-menus
